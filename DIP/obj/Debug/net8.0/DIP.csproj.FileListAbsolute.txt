@@ -1,0 +1,14 @@
+/Users/charles/Projects/SOLID/DIP/bin/Debug/net8.0/DIP
+/Users/charles/Projects/SOLID/DIP/bin/Debug/net8.0/DIP.deps.json
+/Users/charles/Projects/SOLID/DIP/bin/Debug/net8.0/DIP.runtimeconfig.json
+/Users/charles/Projects/SOLID/DIP/bin/Debug/net8.0/DIP.dll
+/Users/charles/Projects/SOLID/DIP/bin/Debug/net8.0/DIP.pdb
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.AssemblyInfoInputs.cache
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.AssemblyInfo.cs
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.csproj.CoreCompileInputs.cache
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.dll
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/refint/DIP.dll
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.pdb
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/DIP.genruntimeconfig.cache
+/Users/charles/Projects/SOLID/DIP/obj/Debug/net8.0/ref/DIP.dll

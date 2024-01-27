@@ -1,0 +1,14 @@
+/Users/charles/Projects/SOLID/SRP/bin/Debug/net8.0/SRP
+/Users/charles/Projects/SOLID/SRP/bin/Debug/net8.0/SRP.deps.json
+/Users/charles/Projects/SOLID/SRP/bin/Debug/net8.0/SRP.runtimeconfig.json
+/Users/charles/Projects/SOLID/SRP/bin/Debug/net8.0/SRP.dll
+/Users/charles/Projects/SOLID/SRP/bin/Debug/net8.0/SRP.pdb
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.AssemblyInfoInputs.cache
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.AssemblyInfo.cs
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.csproj.CoreCompileInputs.cache
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.dll
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/refint/SRP.dll
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.pdb
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/SRP.genruntimeconfig.cache
+/Users/charles/Projects/SOLID/SRP/obj/Debug/net8.0/ref/SRP.dll

@@ -1,0 +1,14 @@
+/Users/charles/Projects/SOLID/OCP/bin/Debug/net8.0/OCP
+/Users/charles/Projects/SOLID/OCP/bin/Debug/net8.0/OCP.deps.json
+/Users/charles/Projects/SOLID/OCP/bin/Debug/net8.0/OCP.runtimeconfig.json
+/Users/charles/Projects/SOLID/OCP/bin/Debug/net8.0/OCP.dll
+/Users/charles/Projects/SOLID/OCP/bin/Debug/net8.0/OCP.pdb
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.AssemblyInfoInputs.cache
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.AssemblyInfo.cs
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.csproj.CoreCompileInputs.cache
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.dll
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/refint/OCP.dll
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.pdb
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/OCP.genruntimeconfig.cache
+/Users/charles/Projects/SOLID/OCP/obj/Debug/net8.0/ref/OCP.dll

@@ -1,0 +1,14 @@
+/Users/charles/Projects/SOLID/ISP/bin/Debug/net8.0/ISP
+/Users/charles/Projects/SOLID/ISP/bin/Debug/net8.0/ISP.deps.json
+/Users/charles/Projects/SOLID/ISP/bin/Debug/net8.0/ISP.runtimeconfig.json
+/Users/charles/Projects/SOLID/ISP/bin/Debug/net8.0/ISP.dll
+/Users/charles/Projects/SOLID/ISP/bin/Debug/net8.0/ISP.pdb
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.AssemblyInfoInputs.cache
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.AssemblyInfo.cs
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.csproj.CoreCompileInputs.cache
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.dll
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/refint/ISP.dll
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.pdb
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ISP.genruntimeconfig.cache
+/Users/charles/Projects/SOLID/ISP/obj/Debug/net8.0/ref/ISP.dll
